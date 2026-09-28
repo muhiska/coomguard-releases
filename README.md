@@ -12,8 +12,10 @@ ask the staff in the Discord: https://discord.gg/a6W2P2nCCD
 
 ## Install on Android
 
-1. Download the newest `coomguard-<version>.apk` from Releases and open
-   it. Android warns that the app is not from the store; allow it.
+1. Download the newest build from the download page,
+   https://muhiska.github.io/coomguard-releases/ (the same file as the
+   release asset, served plainly, which phone browsers handle better), and
+   open it. Android warns that the app is not from the store; allow it.
 2. Android 13 and newer: Settings → Apps → CoomGuard → ⋮ → Allow
    restricted settings. Then in the app tap Enable and turn on CoomGuard
    under Accessibility.
